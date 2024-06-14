@@ -10,7 +10,7 @@ layer_names = net.getLayerNames()
 output_layers = [layer_names[i - 1] for i in net.getUnconnectedOutLayers()]
 
 # Webcam
-cap = cv2.VideoCapture(0)
+# cap = cv2.VideoCapture(0)
 
 # Video
 cap = cv2.VideoCapture('video.mp4')

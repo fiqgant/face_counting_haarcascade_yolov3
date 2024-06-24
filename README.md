@@ -21,7 +21,7 @@ This repository contains a Python implementation of a face counting system using
 
    ```bash
    git clone https://github.com/fiqgant/face_counting_haarcascade_yolov3.git
-   cd face-counting-system
+   cd face_counting_haarcascade_yolov3
    ```
 
 2. **Install the required packages:**
